@@ -1,0 +1,21 @@
+
+.one{
+  color: #DAA520;
+}
+
+.two{
+
+}
+
+.three{
+  color: whitesmoke;
+}
+
+body{
+  background: url(background8.avif);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+
+}
