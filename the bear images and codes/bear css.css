@@ -1,21 +1,38 @@
 
-.one{
-  color: #DAA520;
-}
-
-.two{
-
-}
-
-.three{
-  color: whitesmoke;
-}
-
 body{
   background: url(background8.avif);
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
   background-attachment: fixed;
+}
 
+.one{
+  color: #DAA520;
+  font-size: 34px;
+}
+
+.two{
+  color: #DAA520;
+  font-size: 70px;
+}
+
+.three{
+  color: whitesmoke;
+  font-size: 19px;
+}
+
+.four{
+  color: whitesmoke;
+  font-size: 37px;
+}
+
+.five{
+  color: whitesmoke;
+  font-size: 70px;
+}
+
+.six{
+  color: whitesmoke;
+  font-size: 24px;
 }
