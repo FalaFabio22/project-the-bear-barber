@@ -18,6 +18,8 @@ div{
 .one{
   color: #DAA520;
   font-size: 35px;
+  font-family: "Oswald", sans-serif;
+
 }
 
 .two{
@@ -27,8 +29,9 @@ div{
 
 .three{
   color: whitesmoke;
-  font-size: 19px;
+  font-size: 23px;
   font-style: normal;
+  font-family: "Gabarito", sans-serif;;
 }
 
 .four{
@@ -55,6 +58,7 @@ div{
 .eight{
   color: whitesmoke;
   font-size: 27px;
+  font-family:
 }
 
 .nine{
@@ -70,4 +74,10 @@ div{
 .eleven{
   color: #DAA520;
   font-size: 84px;
+}
+a{
+  color: #DAA520;
+}
+a:visited{
+  color: white;
 }
