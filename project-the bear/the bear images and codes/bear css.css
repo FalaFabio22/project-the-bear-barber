@@ -1,0 +1,81 @@
+
+body{
+  background: url(background8.avif);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+div{
+  background-image: url(barberpro.jpg);
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+.one{
+  color: #DAA520;
+  font-size: 35px;
+  font-family: "Oswald", sans-serif;
+
+}
+
+.two{
+  color: #DAA520;
+  font-size: 70px;
+}
+
+.three{
+  color: whitesmoke;
+  font-size: 19px;
+  font-style: normal;
+}
+
+.four{
+  color: whitesmoke;
+  font-size: 37px;
+}
+
+.five{
+  color: whitesmoke;
+  font-size: 75px;
+}
+
+.six{
+  color: whitesmoke;
+  font-size: 20px;
+  font-style: normal;
+}
+
+.seven{
+  color: #DAA520;
+  font-size: 27px;
+}
+
+.eight{
+  color: whitesmoke;
+  font-size: 27px;
+}
+
+.nine{
+  color: whitesmoke;
+  font-size: 60px;
+}
+
+.ten{
+  color: #DAA520;
+  font-size: 110px;
+}
+
+.eleven{
+  color: #DAA520;
+  font-size: 84px;
+}
+a{
+  color: #DAA520;
+}
+a:visited{
+  color: white;
+}
